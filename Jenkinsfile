@@ -1,5 +1,4 @@
 Pipeline{
-  agent any
   stages {
         stage("Execute Master Branch") {
             when {
